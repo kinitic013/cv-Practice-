@@ -1,0 +1,21 @@
+* {
+    background-color: #000572;
+    font-family: consolas;
+    color: white;
+}
+h1{
+    color:	#00ff00	;
+}
+h3{
+    color: 	#ff4cbf;
+}
+hr{
+    border-width: 10px;
+    border-style: dotted none none none;
+    height: 3px;
+    width: 7%;
+    border-color: rgb(255, 255, 255);
+}
+body{
+    background-color:#000572;
+}
